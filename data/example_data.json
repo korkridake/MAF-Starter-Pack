@@ -1,0 +1,10 @@
+[
+  {
+    "input": "What is the capital of France?",
+    "expected_output": "Paris"
+  },
+  {
+    "input": "Who wrote '1984'?",
+    "expected_output": "George Orwell"
+  }
+]
